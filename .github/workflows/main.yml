@@ -1,0 +1,35 @@
+name: 🚀 Auto Sync & Setup - Uzzol Project
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  uzzol_build:
+    name: 🛠️ Build & Setup Uzzol
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: ⬇️ Clone Repository
+        uses: actions/checkout@v4
+
+      - name: ⚙️ Set Git Identity
+        run: |
+          git config --global user.name "nirobtech"
+          git config --global user.email "uzzolhassan38@gmail.com"
+
+      - name: 📁 List All Files (Recursive)
+        run: ls -laR
+
+      - name: 🌲 Display Directory Tree
+        run: |
+          sudo apt-get update
+          sudo apt-get install tree -y
+          tree -L 3
+
+      - name: 🧠 Run Setup Script
+        run: bash ./setup-complete-uzzol.sh
+
+      - name: ✅ Final Message
+        run: echo "🎉 Uzzol project automation complete and ready for deployment!"
