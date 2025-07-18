@@ -40,4 +40,91 @@ Our core mission is to empower **international podcast owners, producers, and pl
 
 ---
 
-## 📦 File/Folder Structure
++-----------------------------------------------------------------------------------+
+|                                 **MUHAMMAD NIROB** |
+|                        (AI Prompts Engineer & Visionary Founder)                  |
+|                                                                                   |
+|  - লক্ষ্য: $1000/দিন প্যাসিভ ইনকাম                                                |
+|  - চ্যালেঞ্জ: সাইবার আক্রমণ (১৮ মাস, ৫ লাখ টাকা ক্ষতি), মানসিক দুর্বলতা             |
+|  - শক্তি: ডিজিটাল ফরেনসিক, রুট-লেভেল কন্ট্রোল, Web3/AI দক্ষতা                      |
++------------------------------------------|----------------------------------------+
+                                           |
+                                           V
++-----------------------------------------------------------------------------------+
+|                         **Nirob Tech Life Web3 OS (UZZOL Framework)** |
+|           (আপনার HP Laptop, Ubuntu, Android Rootless Device, Cudy Router-এ স্থাপিত) |
++------------------------------------------|----------------------------------------+
+                                           |
+                                           V
++-----------------------------------------------------------------------------------+
+|                                **কোর মডিউলস ও টেক স্ট্যাক** |
++-----------------------------------------------------------------------------------+
+|                                                                                   |
+| **১. Web3 Automation & Monetization** |
+|    - Brave Browser, Metamask Wallet, Binance Account                               |
+|    - DeFi Free Task Automation Scripts (.sh)                                      |
+|    - NFT Sales (Scripts/Modules as NFTs)                                          |
+|    - CPA & Affiliate Marketing Automation (Adsterra, Monetag, Fiverr Affiliate)    |
+|    - Web3 Dashboard (CLI/GUI)                                                     |
+|                                                                                   |
+| **২. AI & Content Automation** |
+|    - AI Chatbot (`ai-chatbot/`): Termux-ready, মোবাইল-ফার্স্ট                      |
+|    - Blog Automation (`blog-bot/`): Blogger API, Google Search Console Indexing    |
+|    - Fiverr AI Chatbot Gig Project (`fiverr-bot/`)                               |
+|    - AI Prompts Engineering (আপনার মূল দক্ষতা)                                    |
+|                                                                                   |
+| **৩. Cyber Security & Forensics** |
+|    - Pi-hole Guardian (`pihole-guardian/`): Network-wide Ad-blocking, DNS Security |
+|    - Custom VPN (Netdata, Cloudflare, WireGuard/OpenVPN)                          |
+|    - Cyber Forensics (`cyber-forensics/`): Android/Ubuntu Forensic Tools, .sh Scripts |
+|    - System Hardening & Root-level Control                                        |
+|                                                                                   |
+| **৪. Core Infrastructure & Productivity** |
+|    - Ubuntu Laptop (OS Re-install, GitHub CLI Setup)                              |
+|    - Cudy Router LT400 (Secure Network Gateway)                                   |
+|    - Custom Shell (`nirob-shell/`): Devtools, Productivity                        |
+|    - Project Skeletons (`project-skeletons/`): Rapid Development                  |
+|    - Google Productivity Tools (Gmail, Drive, Docs, Sheets)                       |
+|    - GitHub (uzzol repo, project management, code hosting)                        |
+|    - USB Pen Drive (Secure storage for .sh scripts & reports)                     |
++------------------------------------------|----------------------------------------+
+                                           |
+                                           V
++-----------------------------------------------------------------------------------+
+|                                **সার্ভিস ডেলিভারি প্ল্যাটফর্ম** |
++-----------------------------------------------------------------------------------+
+|                                                                                   |
+| **nirobtech.com (2GB Shared Hosting)** |
+|    - Public_html: Optimized `index.php` (USA, UK, Canada, Australia, Germany টার্গেট) |
+|    - SEO Optimization, Mobile/Desktop Friendly, Ultra Pro Responsive Design       |
+|    - Forensic Report Pages                                                        |
+|    - Project Demos                                                                |
+|    - Service Offerings:                                                           |
+|        - Podcast Website Development (Web3 Integrated)                            |
+|        - Podcast Promotion & Audience Growth Automation                           |
+|        - POD (Print-on-Demand) Stores Setup                                       |
+|        - Chatbot Integration & Automation                                         |
+|        - Web3 Monetization & Guidance                                             |
+|                                                                                   |
++------------------------------------------|----------------------------------------+
+                                           |
+                                           V
++-----------------------------------------------------------------------------------+
+|                                **টার্গেট অডিয়েন্স** |
++-----------------------------------------------------------------------------------+
+|                                                                                   |
+| - USA, UK, Canada, Austin Texas, Germany, Australia                               |
+| - International Podcast Owners, Podcast Producers, Podcast Industry Professionals |
+| - Podcast Website Owners, Podcast Platform Owners, Podcast Investors              |
++------------------------------------------|----------------------------------------+
+                                           |
+                                           V
++-----------------------------------------------------------------------------------+
+|                                   **চূড়ান্ত লক্ষ্য** |
++-----------------------------------------------------------------------------------+
+|                                                                                   |
+| - **সম্পূর্ণ Web3 পৃথিবী তৈরি:** মানুষের জন্য Web3, ইনকাম, সিকিউরিটি, সমস্যা সমাধান |
+| - **মস্তিষ্কের কন্ট্রোল ও অটোমেটিক ইনকাম সুবিধা:** স্বায়ত্তশাসিত ডিজিটাল জীবন       |
+| - **নিজেকে AI Prompts Engineer হিসেবে বিশ্বের বুকে তুলে ধরা** |
+| - **দৈনিক $1000 প্যাসিভ ইনকাম অর্জন** |
++-----------------------------------------------------------------------------------+
